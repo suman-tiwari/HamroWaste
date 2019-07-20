@@ -1,11 +1,15 @@
 .navbar{
   background: #2c3e50;
-  height: 100px;
+  height: 70px;
   font-size: 22px;
 }
 
 #section1{
   background: #1abc9c;
+  height: 600px;
+}
+
+.img-wh{
   height: 550px;
 }
 
@@ -14,6 +18,9 @@
 }
 
 #section3{
-  background: #1abc9c;
-  height: 500px;
+  background: #2c3e4f;
+  height: 300px;
+}
+footer{
+  background: #2c3e4f;
 }
